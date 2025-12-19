@@ -38,6 +38,7 @@ int main()
 ```
 ## Output
 <img width="1181" height="261" alt="image" src="https://github.com/user-attachments/assets/fe346ed6-5828-4227-a4bf-00e9bc8c0091" />
+
 # Result
 Thus the program to print odd numbers ranging from M to N (including M and N) in reverse order has been successfully executed.
 
@@ -121,6 +122,7 @@ int main()
 ```
 ## Output
 <img width="1182" height="410" alt="image" src="https://github.com/user-attachments/assets/acd5b99c-045d-49c1-8e32-dc35845eecf2" />
+
 # Result
 Thus the program to display the pyramid‑shaped pattern of % symbols has been successfully executed.
 
@@ -176,6 +178,7 @@ void sub()
 ```
 ## Output
 <img width="1177" height="267" alt="image" src="https://github.com/user-attachments/assets/d7f11899-958c-4e4e-8bf8-791f0ed7e051" />
+
 # Result
 Thus the program to perform addition and subtraction of two numbers using functions without arguments and without return type has been successfully executed.
 
@@ -219,6 +222,7 @@ int main()
 ```
 ## Output
 <img width="1180" height="295" alt="image" src="https://github.com/user-attachments/assets/b76948a2-1e36-4c37-a3e9-82446763f8a6" />
+
 # Result 
 Thus the program to find the sum of digits of a number using a while loop without using the modulus operator has been successfully executed.
 
@@ -274,6 +278,7 @@ void sub()
 ```
 ## Output
 <img width="1210" height="278" alt="image" src="https://github.com/user-attachments/assets/5c7192c8-ae6a-4655-bd94-c50b943c932f" />
+
 # Result 
 Thus the program to perform addition and subtraction of two numbers using functions without arguments and without return type has been successfully executed.
 

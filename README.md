@@ -227,7 +227,7 @@ int main()
 Thus the program to find the sum of digits of a number using a while loop without using the modulus operator has been successfully executed.
 
 
-## Exp no -2(e) Functions im C
+## Exp no -2(e) Functions in C
 ### Name : DEEPAK PRABHAKARAANN VB 
 ### Refernce number : 25011420
 ### Date : 20.12.25
